@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge" alt="Available"/>
 <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=for-the-badge" alt="Experience"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alhadidi/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@roninlabs.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alhadidi1/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.binhadid@gmail.com)
 [![Website](https://img.shields.io/badge/Website-roninlabs.online-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://roninlabs.online)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-7289DA?style=for-the-badge&logo=github&logoColor=white)](https://abdullahbinhadid-lab.github.io/roninlabs-website/)
 
@@ -89,8 +89,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alhadidi/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@roninlabs.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alhadidi1/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.binhadid@gmail.com)
 [![Website](https://img.shields.io/badge/Website-roninlabs.online-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://roninlabs.online)
 
 </div>
